@@ -6,7 +6,10 @@
     ],
     "@type": "reproschema:Protocol",
     "@id": "MentalWellBeingScreening_schema",
-    "prefLabel": "Mental Wellbeing Screening",
+    "prefLabel": {
+        "en": "Mental Wellbeing Screening",
+        "es": "Evaluación de Salud Mental"
+    },
     "description": "Screening Protocol for a mental health wellbeing",
     "schemaVersion": "1.0.0-rc1",
     "version": "0.0.1",
